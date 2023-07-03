@@ -1,6 +1,6 @@
 ### Hi, everyone 👋
-I am nearly graduated in computer engineering, looking for opportunities and collabaration in projects related to back-end specially w/ nodeJs.
-- 🔭 I’m currently building projects about server-side using SOLID principles at most of the part (also, I am brushing up my data structures and algorithms skills regularly).
+I am a computer engineer looking for opportunities and collabaration in projects related to backend specially w/ NodeJS.
+- 🔭 I’m currently building projects about server-side using SOLID principles and clean architecture at most of the part (also, I am brushing up my data structures, security and algorithms skills regularly).
 - 🌱 I’m currently learning how to build a world class server and increase network security.
 - 🤝 I’m looking to collaborate on javascript and nodeJs projects. 
  
